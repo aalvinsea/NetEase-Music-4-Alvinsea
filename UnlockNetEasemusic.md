@@ -8,9 +8,9 @@ http=taron.top:100, tag=🎧𝐌𝐮𝐬𝐢𝐜11
 
 http=music.griouges.cn:39000, tag=🎧𝐌𝐮𝐬𝐢𝐜12
 
-shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬13
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜13
 
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜14
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜14
 
 #🎧𝐌𝐮𝐬𝐢𝐜𝟐 = http,3music.poetyin.me,100
 #🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,block4music.poetyin.me,39000
